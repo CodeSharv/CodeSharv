@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" src="https://media1.tenor.com/m/yVvBqURO_uQAAAAC/sharv.gif"  />
+  <img height="300" width="600" src="https://media1.tenor.com/m/yVvBqURO_uQAAAAC/sharv.gif"  />
 </div>
 
 ###
