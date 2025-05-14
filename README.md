@@ -1,6 +1,6 @@
 <br clear="both">
 
-<div class="tenor-gif-embed" data-postid="17935168904277552559" data-share-method="host" data-aspect-ratio="3.95238" data-width="100%"><a href="https://tenor.com/view/xfd-gif-17935168904277552559">Xfd GIF</a>from <a href="https://tenor.com/search/xfd-gifs">Xfd GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div align="center"> <img height="150" src="https://tenor.com/view/xfd-gif-17935168904277552559"/> </div>
 
 ###
 
